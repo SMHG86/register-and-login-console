@@ -1,0 +1,35 @@
+C:\Users\Nafir-pc\source\repos\porojee\porojee\bin\Debug\porojee.exe.config
+C:\Users\Nafir-pc\source\repos\porojee\porojee\bin\Debug\porojee.exe
+C:\Users\Nafir-pc\source\repos\porojee\porojee\bin\Debug\porojee.pdb
+C:\Users\Nafir-pc\source\repos\porojee\porojee\obj\Debug\porojee.csproj.AssemblyReference.cache
+C:\Users\Nafir-pc\source\repos\porojee\porojee\obj\Debug\porojee.csproj.CoreCompileInputs.cache
+C:\Users\Nafir-pc\source\repos\porojee\porojee\obj\Debug\porojee.exe
+C:\Users\Nafir-pc\source\repos\porojee\porojee\obj\Debug\porojee.pdb
+C:\Users\NikRayane\source\repos\porojee\porojee\bin\Debug\porojee.exe.config
+C:\Users\NikRayane\source\repos\porojee\porojee\bin\Debug\porojee.exe
+C:\Users\NikRayane\source\repos\porojee\porojee\bin\Debug\porojee.pdb
+C:\Users\NikRayane\source\repos\porojee\porojee\obj\Debug\porojee.csproj.AssemblyReference.cache
+C:\Users\NikRayane\source\repos\porojee\porojee\obj\Debug\porojee.csproj.CoreCompileInputs.cache
+C:\Users\NikRayane\source\repos\porojee\porojee\obj\Debug\porojee.exe
+C:\Users\NikRayane\source\repos\porojee\porojee\obj\Debug\porojee.pdb
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\bin\Debug\porojee.exe.config
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\bin\Debug\porojee.exe
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\bin\Debug\porojee.pdb
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\obj\Debug\porojee.csproj.AssemblyReference.cache
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\obj\Debug\porojee.csproj.CoreCompileInputs.cache
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\obj\Debug\porojee.exe
+C:\Users\Nafir-pc\Desktop\porojee\porojee\porojee\obj\Debug\porojee.pdb
+G:\takalif\register_login complete\porojee\porojee\bin\Debug\porojee.exe.config
+G:\takalif\register_login complete\porojee\porojee\bin\Debug\porojee.exe
+G:\takalif\register_login complete\porojee\porojee\bin\Debug\porojee.pdb
+G:\takalif\register_login complete\porojee\porojee\obj\Debug\porojee.csproj.AssemblyReference.cache
+G:\takalif\register_login complete\porojee\porojee\obj\Debug\porojee.csproj.CoreCompileInputs.cache
+G:\takalif\register_login complete\porojee\porojee\obj\Debug\porojee.exe
+G:\takalif\register_login complete\porojee\porojee\obj\Debug\porojee.pdb
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\bin\Debug\porojee.exe.config
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\bin\Debug\porojee.exe
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\bin\Debug\porojee.pdb
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\obj\Debug\porojee.csproj.AssemblyReference.cache
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\obj\Debug\porojee.csproj.CoreCompileInputs.cache
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\obj\Debug\porojee.exe
+C:\Users\Nafir-pc\Desktop\register_login complete\porojee\porojee\obj\Debug\porojee.pdb

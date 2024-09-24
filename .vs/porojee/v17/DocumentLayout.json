@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\showmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\showmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|c:\\users\\nafir-pc\\desktop\\register_login complete\\porojee\\porojee\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\kaptcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\kaptcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\random.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\noor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC23FDE-21B4-4547-A847-09B73675AF0D}|porojee\\porojee.csproj|solutionrelative:porojee\\noor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\Program.cs",
+              "RelativeDocumentMoniker": "porojee\\Program.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\Program.cs",
+              "RelativeToolTip": "porojee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:15:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pass.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\pass.cs",
+              "RelativeDocumentMoniker": "porojee\\pass.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\pass.cs",
+              "RelativeToolTip": "porojee\\pass.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:22:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RandoM.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\RandoM.cs",
+              "RelativeDocumentMoniker": "porojee\\RandoM.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\RandoM.cs",
+              "RelativeToolTip": "porojee\\RandoM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:20:18.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kaptcha.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\kaptcha.cs",
+              "RelativeDocumentMoniker": "porojee\\kaptcha.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\kaptcha.cs",
+              "RelativeToolTip": "porojee\\kaptcha.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:17:59.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\register.cs",
+              "RelativeDocumentMoniker": "porojee\\register.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\register.cs",
+              "RelativeToolTip": "porojee\\register.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAgwLUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:23:36.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\login.cs",
+              "RelativeDocumentMoniker": "porojee\\login.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\login.cs",
+              "RelativeToolTip": "porojee\\login.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:18:38.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\edit.cs",
+              "RelativeDocumentMoniker": "porojee\\edit.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\edit.cs",
+              "RelativeToolTip": "porojee\\edit.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:16:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\ShowMainMenu.cs",
+              "RelativeDocumentMoniker": "porojee\\ShowMainMenu.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\ShowMainMenu.cs",
+              "RelativeToolTip": "porojee\\ShowMainMenu.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:30:08.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Noor.cs",
+              "DocumentMoniker": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\Noor.cs",
+              "RelativeDocumentMoniker": "porojee\\Noor.cs",
+              "ToolTip": "C:\\Users\\Nafir-pc\\Desktop\\register_login complete\\porojee\\porojee\\Noor.cs",
+              "RelativeToolTip": "porojee\\Noor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:44:16.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
